@@ -8,11 +8,11 @@ layout: default
 
 ## About ELNs
 
-ELN stands for *electronic laboratory notebook*.
+ELN stands for *Electronic Lab Notebook*.
 
 ## About the Team
-### Prof. Dr. Christoph Steinbeck
+### [Prof. Dr. Christoph Steinbeck](./christoph-steinbeck.html)
 
-### Dr. Kevin Jablonka
+### [Dr. Kevin Jablonka](./kevin-jablonka.html)
 
-### Soyee Chan
+### [Soyee Chan](./soyee-chan.html)
