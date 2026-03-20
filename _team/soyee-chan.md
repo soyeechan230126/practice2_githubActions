@@ -2,9 +2,9 @@
 layout: default
 title: About the Team
 name: Soyee Chan
-description: {{ page.name }}
+description: Meet the team.
 ---
-[Home]({{site.baseurl}}) > [{{ page.title }}]({{site.baseurl}}#about-the-team) > {{ page.name }}
+[Home]({{ site.baseurl }}) > [{{ page.title }}]({{ site.baseurl }}#about-the-team) > {{ page.name }}
 
 ## Soyee Chan
 ---*Student Assistent*---

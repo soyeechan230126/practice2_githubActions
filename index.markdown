@@ -12,8 +12,8 @@ ELN stands for *Electronic Laboratory Notebook*. With the ELN, it is possible to
 ~(extracted from [Chemotion](https://chemotion.net/docs))~
 
 ## About the Team
-### [Prof. Dr. Christoph Steinbeck]({{ site.baseurl}}/team/christoph-steinbeck/)
+### [Prof. Dr. Christoph Steinbeck]({{ site.baseurl }}/team/christoph-steinbeck/)
 
-### [Dr. Kevin Jablonka]({{ site.baseurl}}/team/kevin-jablonka/)
+### [Dr. Kevin Jablonka]({{ site.baseurl }}/team/kevin-jablonka/)
 
-### [Soyee Chan]({{ site.baseurl}}/team/soyee-chan/)
+### [Soyee Chan]({{ site.baseurl }}/team/soyee-chan/)
